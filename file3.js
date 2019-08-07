@@ -7,11 +7,7 @@
 
 // var c = undefined;
 
-if (a === c) {
-    // alert("esşit");
-} else {
-    // alert("degil");
-}
+ 
 
 // if(undefined == null) {
 //     console.log()
